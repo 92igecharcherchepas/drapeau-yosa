@@ -1,0 +1,18 @@
+{
+  "name": "quiz-drapeaux-discord",
+  "version": "1.0.0",
+  "private": true,
+  "description": "Bot Discord de quiz de drapeaux et de culture generale en Components V2.",
+  "type": "module",
+  "scripts": {
+    "start": "node src/index.js",
+    "dev": "node --watch src/index.js"
+  },
+  "engines": {
+    "node": ">=20.18.0"
+  },
+  "dependencies": {
+    "discord.js": "^14.27.0",
+    "dotenv": "^16.6.1"
+  }
+}

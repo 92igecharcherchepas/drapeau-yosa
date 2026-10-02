@@ -1,0 +1,37 @@
+{
+  "drapeaux": [
+    { "prompt": "Quel est ce pays ?", "answer": "Espagne", "accept": ["espagne", "l'espagne", "spain"], "image": "https://flagcdn.com/w640/es.png" },
+    { "prompt": "Quel est ce pays ?", "answer": "France", "accept": ["france", "la france"], "image": "https://flagcdn.com/w640/fr.png" },
+    { "prompt": "Quel est ce pays ?", "answer": "Japon", "accept": ["japon", "le japon"], "image": "https://flagcdn.com/w640/jp.png" },
+    { "prompt": "Quel est ce pays ?", "answer": "Brésil", "accept": ["bresil", "brésil", "le bresil", "le brésil"], "image": "https://flagcdn.com/w640/br.png" },
+    { "prompt": "Quel est ce pays ?", "answer": "Canada", "accept": ["canada", "le canada"], "image": "https://flagcdn.com/w640/ca.png" },
+    { "prompt": "Quel est ce pays ?", "answer": "Suisse", "accept": ["suisse", "la suisse"], "image": "https://flagcdn.com/w640/ch.png" },
+    { "prompt": "Quel est ce pays ?", "answer": "Sénégal", "accept": ["senegal", "sénégal", "le senegal", "le sénégal"], "image": "https://flagcdn.com/w640/sn.png" },
+    { "prompt": "Quel est ce pays ?", "answer": "Grèce", "accept": ["grece", "grèce", "la grece", "la grèce"], "image": "https://flagcdn.com/w640/gr.png" },
+    { "prompt": "Quel est ce pays ?", "answer": "Corée du Sud", "accept": ["coree du sud", "corée du sud", "coree", "corée", "south korea"], "image": "https://flagcdn.com/w640/kr.png" },
+    { "prompt": "Quel est ce pays ?", "answer": "Afrique du Sud", "accept": ["afrique du sud", "south africa"], "image": "https://flagcdn.com/w640/za.png" },
+    { "prompt": "Quel est ce pays ?", "answer": "Maroc", "accept": ["maroc", "le maroc"], "image": "https://flagcdn.com/w640/ma.png" },
+    { "prompt": "Quel est ce pays ?", "answer": "Italie", "accept": ["italie", "l'italie", "italy"], "image": "https://flagcdn.com/w640/it.png" },
+    { "prompt": "Quel est ce pays ?", "answer": "Norvège", "accept": ["norvege", "norvège", "la norvege", "la norvège"], "image": "https://flagcdn.com/w640/no.png" },
+    { "prompt": "Quel est ce pays ?", "answer": "Inde", "accept": ["inde", "l'inde", "india"], "image": "https://flagcdn.com/w640/in.png" },
+    { "prompt": "Quel est ce pays ?", "answer": "Mexique", "accept": ["mexique", "le mexique", "mexico"], "image": "https://flagcdn.com/w640/mx.png" }
+  ],
+  "culture": [
+    { "prompt": "Est ce que Edouard (yass) est il le meilleur ?", "answer": "oui", "accept": ["oui", "Oui"] },
+    { "prompt": "Quel fleuve traverse Paris ?", "answer": "La Seine", "accept": ["seine", "la seine"] },
+    { "prompt": "Qui a écrit 'Le Petit Prince' ?", "answer": "Antoine de Saint-Exupéry", "accept": ["antoine de saint-exupery", "antoine de saint exupery", "saint-exupery", "saint exupery", "exupery", "exupéry"] },
+    { "prompt": "Quelle est la capitale du Canada ?", "answer": "Ottawa", "accept": ["ottawa"] },
+    { "prompt": "Combien de côtés possède un hexagone ?", "answer": "Six", "accept": ["6", "six"] },
+    { "prompt": "Quelle planète est surnommée la planète rouge ?", "answer": "Mars", "accept": ["mars"] },
+    { "prompt": "Dans quel pays se trouve la ville de Kyoto ?", "answer": "Au Japon", "accept": ["japon", "au japon", "le japon"] },
+    { "prompt": "Quel est le plus grand océan du monde ?", "answer": "L'océan Pacifique", "accept": ["pacifique", "ocean pacifique", "océan pacifique", "le pacifique"] },
+    { "prompt": "Qui a peint La Joconde ?", "answer": "Léonard de Vinci", "accept": ["leonard de vinci", "léonard de vinci", "da vinci"] },
+    { "prompt": "Quel est le symbole chimique de l'or ?", "answer": "Au", "accept": ["au"] },
+    { "prompt": "Combien de couleurs compte un arc-en-ciel traditionnel ?", "answer": "Sept", "accept": ["7", "sept"] },
+    { "prompt": "Quelle langue parle-t-on principalement au Brésil ?", "answer": "Le portugais", "accept": ["portugais", "le portugais"] },
+    { "prompt": "Quel animal est le plus grand mammifère du monde ?", "answer": "La baleine bleue", "accept": ["baleine bleue", "la baleine bleue"] },
+    { "prompt": "Quelle est la monnaie officielle du Japon ?", "answer": "Le yen", "accept": ["yen", "le yen"] },
+    { "prompt": "Combien de joueurs une équipe de football aligne-t-elle sur le terrain ?", "answer": "Onze", "accept": ["11", "onze"] },
+    { "prompt": "Quel gaz les plantes absorbent-elles principalement ?", "answer": "Le dioxyde de carbone", "accept": ["dioxyde de carbone", "co2", "gaz carbonique"] }
+  ]
+}

@@ -1,0 +1,160 @@
+{
+  "1554593641169944736:205457684994981888": {
+    "guildId": "1554593641169944736",
+    "userId": "205457684994981888",
+    "username": "niquetoi1337",
+    "points": 45,
+    "correct": 5
+  },
+  "1554593641169944736:1432545899921408162": {
+    "guildId": "1554593641169944736",
+    "userId": "1432545899921408162",
+    "username": "hexiena",
+    "points": 15,
+    "correct": 2
+  },
+  "1554593641169944736:226447179877842944": {
+    "guildId": "1554593641169944736",
+    "userId": "226447179877842944",
+    "username": "recensant",
+    "points": 55,
+    "correct": 5,
+    "history": {
+      "2026-09-30": {
+        "points": 50,
+        "correct": 4
+      }
+    },
+    "dailyDate": "2026-09-30",
+    "dailyPoints": 50,
+    "dailyCorrect": 4
+  },
+  "1532803875411595446:1432545899921408162": {
+    "guildId": "1532803875411595446",
+    "userId": "1432545899921408162",
+    "username": "hexiena",
+    "points": 20,
+    "correct": 4,
+    "history": {
+      "2026-10-02": {
+        "points": 20,
+        "correct": 4
+      }
+    },
+    "dailyDate": "2026-10-02",
+    "dailyPoints": 20,
+    "dailyCorrect": 4
+  },
+  "1532803875411595446:1524130283039883264": {
+    "guildId": "1532803875411595446",
+    "userId": "1524130283039883264",
+    "username": "tillyy._.",
+    "points": 40,
+    "correct": 3,
+    "history": {
+      "2026-10-02": {
+        "points": 40,
+        "correct": 3
+      }
+    },
+    "dailyDate": "2026-10-02",
+    "dailyPoints": 40,
+    "dailyCorrect": 3
+  },
+  "1532803875411595446:226447179877842944": {
+    "guildId": "1532803875411595446",
+    "userId": "226447179877842944",
+    "username": "recensant",
+    "points": 15,
+    "correct": 1,
+    "history": {
+      "2026-10-02": {
+        "points": 15,
+        "correct": 1
+      }
+    },
+    "dailyDate": "2026-10-02",
+    "dailyPoints": 15,
+    "dailyCorrect": 1
+  },
+  "1532803875411595446:1504084593115005039": {
+    "guildId": "1532803875411595446",
+    "userId": "1504084593115005039",
+    "username": "iblameveryone",
+    "points": 5,
+    "correct": 1,
+    "history": {
+      "2026-10-02": {
+        "points": 5,
+        "correct": 1
+      }
+    },
+    "dailyDate": "2026-10-02",
+    "dailyPoints": 5,
+    "dailyCorrect": 1
+  },
+  "1532803875411595446:984537552381956096": {
+    "guildId": "1532803875411595446",
+    "userId": "984537552381956096",
+    "username": "mukia_i",
+    "points": 10,
+    "correct": 1,
+    "history": {
+      "2026-10-02": {
+        "points": 10,
+        "correct": 1
+      }
+    },
+    "dailyDate": "2026-10-02",
+    "dailyPoints": 10,
+    "dailyCorrect": 1
+  },
+  "1532803875411595446:719298556296691782": {
+    "guildId": "1532803875411595446",
+    "userId": "719298556296691782",
+    "username": "quedesputes",
+    "points": 10,
+    "correct": 1,
+    "history": {
+      "2026-10-02": {
+        "points": 10,
+        "correct": 1
+      }
+    },
+    "dailyDate": "2026-10-02",
+    "dailyPoints": 10,
+    "dailyCorrect": 1
+  },
+  "1532803875411595446:1531014583131836627": {
+    "guildId": "1532803875411595446",
+    "userId": "1531014583131836627",
+    "username": "onixxxxxxxxxxxxxxxxxxxxxxxxxxxxx",
+    "points": 5,
+    "correct": 1,
+    "history": {
+      "2026-10-02": {
+        "points": 5,
+        "correct": 1
+      }
+    },
+    "dailyDate": "2026-10-02",
+    "dailyPoints": 5,
+    "dailyCorrect": 1
+  },
+  "1532803875411595446:1465819651798863882": {
+    "guildId": "1532803875411595446",
+    "userId": "1465819651798863882",
+    "username": "lungsfullofair",
+    "points": 155,
+    "correct": 15,
+    "history": {
+      "2026-10-02": {
+        "points": 155,
+        "correct": 15
+      }
+    },
+    "dailyDate": "2026-10-02",
+    "dailyPoints": 155,
+    "dailyCorrect": 15
+  }
+}
